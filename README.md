@@ -1,4 +1,4 @@
-# Kubernetes Assignment 7 – Node Scheduling, Affinity, Taints, QoS, DaemonSet & Static Pods
+# Kubernetes Assignment 8 – Node Scheduling, Affinity, Taints, QoS, DaemonSet & Static Pods
 
 This repository contains all tasks for **Kubernetes Assignment 7** executed on **Minikube**. The tasks cover:
 
